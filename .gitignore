@@ -1,0 +1,13 @@
+# Ignorar las carpetas de configuración
+/Config/Chrome
+/Config/ScraperEnvironment
+
+# Ignorar las carpetas dentro de la carpeta de descargas
+/Downloads/*
+
+# Ignorar archivos con extensiones específicas
+*.dat
+*.exe
+*.bat
+
+
